@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+</head>
+<body style="background-image: url(logo.jpg); background-size: cover; background-repeat: no-repeat; link-color:#000; alink-color:#017bf5;vlink-color:#000; margin: 0;">
+    <div style="background-color: #ffffff; display: flex; justify-content: space-between; padding: 0 20px;">
+        <div style="font-family:'lato';">
+            <h1>PERTUSSIS</h1>
+        </div>
+        <div style="font-family:'cinzel'; font-size: 20px; padding:27px 0;">
+            <a style="margin-right: 10px; text-decoration: none; color: #000;" href="Home.html">HOME</a>
+            <a style="margin-right: 10px; text-decoration: none; color: #000;" href="About.html">ABOUT</a>
+            <a style="margin-right: 10px; text-decoration: none; color: #000;" href="ContactUs.html">CONTACT US</a>
+        </div>
+    </div>
+
+    <div style="font-family: 'lato'; text-align: right; margin-top: 280px; padding-right: 40px;">
+        <h1 style="font-size: 38px; color:black;">PREVENTION IS BETTER THAN CURE</h1>
+        <h2 style="font-style: italic; color:black;">Stay informed, stop the spread, and let's silence the whoop together!</h2>
+    </div>
+    
+</body>
+</html>

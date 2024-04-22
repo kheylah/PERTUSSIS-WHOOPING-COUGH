@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+</head>
+<body style="margin:0;">
+    <div style="background-color: #ffffff; display: flex; justify-content: space-between; padding: 0 20px;">
+        <div style="font-family:'lato';">
+            <h1>PERTUSSIS</h1>
+        </div>
+        <div style="font-family:'cinzel'; font-size: 20px; padding:27px 0;">
+            <a style="margin-right: 10px; text-decoration: none; color: #000;" href="Home.html">HOME</a>
+            <a style="margin-right: 10px; text-decoration: none; color: #000;" href="About.html">ABOUT</a>
+            <a style="margin-right: 10px; text-decoration: none; color: #000;" href="ContactUs.html">CONTACT US</a>
+        </div>
+    </div>
+
+    <div style="background-color: rgb(206, 206, 206); margin: 5px 50px; padding: 20px 50px; border-radius: 30px; box-shadow: 0 10px 10px rgba(7, 7, 7, 0.884) ; font-size: large; font-family: 'lato'; text-align: center   ;">
+        <h1>Contact us</h1>
+        <hr>
+        <br>
+        <br>
+        <h2>Email us with any questions or inquiries, or call 09453247916.</h2>
+        <h2>We'd love to help! Stay informed and take aid further.</h2>
+        <br>    
+        <h2>Catch up on checkups and routine vaccines!</h2>
+    </div>
+</body>
+</html>

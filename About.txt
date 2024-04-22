@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pertussis</title>
+</head>
+<body style="margin:0;">
+    <div style="background-color: #ffffff; display: flex; justify-content: space-between; padding: 0 20px;">
+        <div style="font-family:'lato';">
+            <h1>PERTUSSIS</h1>
+        </div>
+        <div style="font-family:'cinzel'; font-size: 20px; padding:27px 0;">
+            <a style="margin-right: 10px; text-decoration: none; color: #000;" href="Home.html">HOME</a>
+            <a style="margin-right: 10px; text-decoration: none; color: #000;" href="About.html">ABOUT</a>
+            <a style="margin-right: 10px; text-decoration: none; color: #000;" href="ContactUs.html">CONTACT US</a>
+        </div>
+    </div>
+
+    <div style="background-color: rgb(206, 206, 206); margin: 5px 50px; padding: 20px 50px; border-radius: 30px; box-shadow: 0 10px 10px rgba(7, 7, 7, 0.884) ; font-size: large; font-family: 'lato';">
+        <h1>Pertussis</h1>
+        <p>Pertussis, also known as whooping cough, has been grabbing headlines recently due to a sudden surge in cases. Increasing numbers have prompted outbreak declarations in some areas of the country. What is Pertussis? What measures can we take to prevent its spread?</p>
+        <br>
+        <h1>What is Pertussis/Whooping cough?</h1>
+        <p>According to the Department of Health (DOH), whooping cough, known as "ubong-dalahit" or "tuspirina" in Filipino, is a highly contagious respiratory infection caused by a type of bacteria called Bordetella pertussis.</p>
+        <br>
+        <h1>How is it transmitted?</h1>
+        <p>As characterized by the World Health Organization (WHO), whooping cough spreads when an infected person sneezes or coughs, releasing bacteria-filled particles into the air. These particles can be inhaled by others nearby. Spending prolonged time together or sharing breathing space, like a marites session with someone infected, can also facilitate its transmission.</p>
+        
+        <br>
+        <h1>Signs and Symptoms</h1>
+        <p>WHO describes pertussis symptoms as gradual, starting with mild fever, colds, and coughs about 7 to 10 days after exposure. In most cases develops into a hacking cough followed by whooping (hence the common name of whooping cough). People with pertussis are highly contagious, particularly within the first three weeks after the cough starts. It's worth noting that children who get infected often experience coughing spells lasting between 4 to 8 weeks.
+        <p>While antibiotics can treat pertussis, prevention is key. Vaccination offers the best defense against this. The Philippine Information Agency reports that the disruptions in routine immunization during the pandemic are considered the main reason why, for the first ten weeks of 2024, there already are 453 reported cases of pertussis. The DOH prompts the public to follow the vaccinations against this highly contagious infection.
+        <p>As of now, there are no reports of pertussis cases in Aklan. However, the fear of another contagious disease brings us back to the start of pandemic restrictions. </p>
+        
+        <br>
+        <h1>How can we contribute to stopping the spread?</h1>
+            <h2>The Centers for Disease Control and Prevention advises the following measures to stay protected from the bacteria:</h2>
+            
+            <h3>1. Vaccine</h3>
+            <p>Three doses of the DTaP vaccine, the first dose at 2 months and the two next shots at four-week intervals provide immunity to pertussis (whooping cough). Children under 7 get DTaP, while older children and adults get Tdap. The Pentavalent or 5-in-1 vaccine (DTaP/IPV/Hib) protects against diphtheria, tetanus, pertussis, polio, and Hib with a single shot, starting in infancy.</p>
+	    <img src="vaccine.jpg" width="300" height="210">
+            
+            <h3>2. Cover your cough or sneeze:</h3>
+	    <ul>
+              <li>Use a tissue to cover your mouth and nose.</li>
+              <li>Proper disposal of used tissues immediately.</li>
+              <li>If you don't have a tissue, cough or sneeze into your upper sleeve or elbow, avoiding your hands to prevent germ spread.</li>
+	    </ul>
+	    <img src="cover.jpg" width="300" height="210">
+            
+            <h3>3. Wash your hands frequently:</h3>
+	    <ul>
+              <li>Wash your hands thoroughly with soap and water for at least 20 seconds.</li>
+              <li>When soap and water are not available, use an alcohol-based hand sanitizer.</li>
+	    </ul>
+	    <img src="wash.jpg" width="300" height="210">
+
+            <h3>4. When feeling unwell</h3>
+              <p>It's best to stay home. If you must go out, wear a mask and maintain a safe distance, particularly around vulnerable individuals such as pregnant women, children, and those with compromised immune systems.</p>
+	    <img src="unwell.jpg" width="300" height="210">
+            <br>
+            <h2 style="font-family: 'lato'; text-align: center; font-style:italic;">We are informed, of course, we believe that prevention is better than cure.</h2>
+            <h2 style="font-family: 'lato'; text-align: center; font-style:italic;">Stay informed, stop spread, and let's silence the whoop together</h2>
+    </div>
+
+</body>
+</html>
